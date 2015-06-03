@@ -1,0 +1,30 @@
+{
+  "name": "rubble",
+  "version": "0.0.1",
+  "description": "Simple task manager",
+  "main": "rubble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rubble": "rubble.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LestaD/rubble.git"
+  },
+  "keywords": [
+    "rubble",
+    "task",
+    "work"
+  ],
+  "author": "LestaD <i.am@lestad.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LestaD/rubble/issues"
+  },
+  "homepage": "https://github.com/LestaD/rubble#readme",
+  "dependencies": {
+    "colors": "1.*"
+  }
+}
